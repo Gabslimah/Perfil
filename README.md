@@ -16,3 +16,10 @@ You can click the Preview link to take a look at your changes.
 
 
    ## Obrigado Pela Visita 🏃
+
+  # Aluno
+| Nome          | Perfil          |
+|---------------|------------------|
+| Gabriel De Oliveira Lima| [Gabriel](https://github.com/Gabslimah) |
+<img src="eu.jpg" alt="Sua Foto" width="275" height="275" style="border-radius: 200%;" />
+

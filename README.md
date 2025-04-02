@@ -1,7 +1,8 @@
 - 👋 Olá, eu sou gabriel
 -  Estou interessado em aprender programação, me especilizar na área, didvidir e somar
 -  Estou atualmete inicinado como programador através do programa ONE d Alura, e pretendo seguir a diante com um vasto conteúdo que nos proporcionam
--  Como me contatar, aqui através do github e rede social https://www.threads.net/@lima.gabriel38?xmt=AQGzz5qC8LC-vJz07tP6IAIU3M5inyRPUwQ9fXn8JV4gszc
+-  Como me contatar, aqui através do github e rede social:
+-   (https://www.linkedin.com/in/gaabslimah)
 -  Curiosidade: Não sei bem, mas coleciono pedras de todos os lugares que vou rs
 
 <!---

@@ -2,7 +2,7 @@
 -  Estou interessado em aprender programação, me especilizar na área, didvidir e somar
 -  Estou atualmete inicinado como programador através do programa ONE d Alura, e pretendo seguir a diante com um vasto conteúdo que nos proporcionam
 -  Como me contatar, aqui através do github e rede social:
--   (https://www.linkedin.com/in/gaabslimah)
+-   https://www.linkedin.com/in/gaabslimah
 -  Curiosidade: Não sei bem, mas coleciono pedras de todos os lugares que vou rs
 
 <!---

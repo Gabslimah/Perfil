@@ -19,9 +19,9 @@ You can click the Preview link to take a look at your changes.
   agora me aventurando em programação para assim seguir uma carreira.
 
   
- 💪 Atualmente estou aprendendo linguagem de programação
- ☺️ Então fique a vontade
- 🔥  Críticas construtivas são bem vindas
+ -💪 Atualmente estou aprendendo linguagem de programação
+ -☺️ Então fique a vontade
+- 🔥  Críticas construtivas são bem vindas
 
 
    ## Obrigado Pela Visita 🏃
